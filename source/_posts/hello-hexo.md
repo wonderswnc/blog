@@ -6,4 +6,4 @@ tags:
 
 # this is my first blog
 
-somethings
+somethings write
